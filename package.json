@@ -1,0 +1,27 @@
+{
+  "name": "tokenlist-serve",
+  "version": "1.0.0",
+  "description": "JSON token list serve for EquiXswap",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/equiXswap/tokenlist-serve.git"
+  },
+  "keywords": [
+    "equixswap",
+    "tokenlist",
+    "nd2"
+  ],
+  "author": "Luka Grower Developer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/equiXswap/tokenlist-serve/issues"
+  },
+  "homepage": "https://github.com/equiXswap/tokenlist-serve#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
